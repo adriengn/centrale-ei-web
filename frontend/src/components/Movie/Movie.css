@@ -1,0 +1,8 @@
+.movie img {
+  /* ... */
+  transition: transform 0.3s ease-in-out;
+}
+
+.movie img:hover {
+  transform: scale(1.1);
+}
